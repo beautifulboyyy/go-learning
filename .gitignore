@@ -1,0 +1,37 @@
+# Go 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试产物
+*.test
+
+# Go 覆盖率报告
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 数据库文件
+*.db
+*.db-journal
+
+# 依赖缓存（不要提交）
+vendor/
+
+# bookmark-api 独立模块的产物
+bookmark-api/bookmark-api.exe
+bookmark-api/bookmarks.db
