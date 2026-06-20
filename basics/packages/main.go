@@ -1,6 +1,6 @@
 package main
 
-import "learn-go/1.8-packages/utils"
+import "learn-go/basics/packages/utils"
 
 func main() {
 	utils.SayHello("张三") // ✅ 可以调用（大写开头）
