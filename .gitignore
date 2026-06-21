@@ -35,3 +35,6 @@ vendor/
 # bookmark-api 独立模块的产物
 bookmark-api/bookmark-api.exe
 bookmark-api/bookmarks.db
+
+# 文件复制练习生成物
+standard-library/4-files/notes-copy.txt
